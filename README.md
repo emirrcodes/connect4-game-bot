@@ -47,3 +47,4 @@ valgrind ./bin/connect4
 ## 📦 Notes
 	•	This project is designed with modularity in mind for better readability and maintenance.
 	•	You can extend it further with a GUI or smarter bot strategies.
+        •	This project was developed as part of an academic assignment under the **Faculty of Computer and Informatics Engineering** at **Istanbul Technical University (ITU)**.
