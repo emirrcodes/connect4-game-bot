@@ -12,6 +12,7 @@ This project is a C implementation of the classic **Connect4** game, extended wi
 - Organized source structure with `Makefile` support
 
 ## 🗂️ Project Structure
+```
 ├── Makefile                  # Build instructions
 ├── submission_script.sh      # Auto-grading or submission helper
 ├── src/
@@ -25,6 +26,7 @@ This project is a C implementation of the classic **Connect4** game, extended wi
 ├── bin/                      # Compiled binaries (excluded from git)
 ├── lib/                      # External libraries (if used)
 └── valgrind-out.txt          # Output of memory analysis
+```
 
 ## ⚙️ How to Build
 
