@@ -44,5 +44,5 @@ make
 valgrind ./bin/connect4
 ````
 
-# Note: This project was developed as part of an academic assignment under the **Faculty of Computer and Informatics** at **Istanbul Technical University (ITU)**.
+Note: This project was developed as part of an academic assignment under the **Faculty of Computer and Informatics** at **Istanbul Technical University (ITU)**.
 
